@@ -1,6 +1,6 @@
 # Jenkins Maven Git Test Repository
 
-This is a test repository for Jenkins and Maven project intregration.
+This is a test repository for Jenkins and Maven project integration.
 
 ## Table of contents
 1. Introduction
