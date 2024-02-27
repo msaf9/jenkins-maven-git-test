@@ -6,7 +6,7 @@ This is a test repository for Jenkins and Maven project integration.
 1. Introduction
 2. Technologies
 3. Project status
-4. Installation
+4. Get Repository
 5. License
 
 ## Introduction
@@ -22,6 +22,10 @@ This is a test repository for Jenkins and Maven project intregration.
 ## Project status
 > **In progress**
 
-## Installation
+## Get Repository
+```git
+git https://github.com/msaf9/jenkins-maven-git-test.git
+cd jenkins-maven-git-test
+```
 
 ## License
