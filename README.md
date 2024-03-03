@@ -1,18 +1,19 @@
-# Jenkins Maven Git Test Repository
+<h1> Jenkins Maven Git Test Repository </h1>
 
 This is a test repository for Jenkins and Maven project integration.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Get Repository
-5. License
+<h2>Table of contents</h2> 
+
+- [Introduction](#introduction)
+- [Technology Stack](#technology-stack)
+- [Project status](#project-status)
+- [Get Repository](#get-repository)
+- [License](#license)
 
 ## Introduction
-This is a test repository for Jenkins and Maven project intregration.
+This is a test repository for Jenkins and Maven project integration.
 
-## Technologies
+## Technology Stack
 - Java
 - Maven
 - JUnit4
